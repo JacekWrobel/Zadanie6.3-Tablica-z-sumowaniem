@@ -4,7 +4,7 @@ public class ArrayAndScanner {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int [] arrayNub = new int[5];
-        System.out.println("Podaj trzy liczby całkowite - pierwsza to: ");
+        System.out.println("Podaj pięć liczb całkowitych - pierwsza to: ");
         arrayNub[0] = scan.nextInt();
         System.out.println("druga to: ");
         arrayNub[1] = scan.nextInt();
